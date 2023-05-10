@@ -5,5 +5,5 @@ Team Members:
 Niharika Rana,
 Naman Kotak,
 Manya Shrama,
-Bhargav Rju.            
+Bhargav Raju.            
 Figma File:https://www.figma.com/file/hQDTvaJf7BGim58W2wOUNl/AID-maps?node-id=0%3A1&t=HAB6PFBGnAtaciMK-1
